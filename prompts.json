@@ -1,0 +1,205 @@
+[
+  {
+    "id": "editorial-portrait",
+    "title": "Editorial portrait",
+    "category": "portrait",
+    "prompt": "An editorial portrait of an adult [SUBJECT] wearing [WARDROBE], seated beside a large window in [SETTING]. Soft side lighting, natural skin texture, relaxed expression, [COLOR PALETTE], uncluttered background, medium close-up, no text or logos.",
+    "variables": [
+      "SUBJECT",
+      "WARDROBE",
+      "SETTING",
+      "COLOR PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Use a fictional adult subject or a consenting subject. Avoid unnecessary beauty or identity assumptions.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "product-studio",
+    "title": "Studio product photograph",
+    "category": "product",
+    "prompt": "A studio product photograph of [PRODUCT] on a [SURFACE] pedestal against a seamless [BACKGROUND COLOR] background. Soft key light from the upper left, subtle rim light, believable contact shadow, precise material detail, generous negative space on the right for later layout. No text, invented labels, or extra objects.",
+    "variables": [
+      "PRODUCT",
+      "SURFACE",
+      "BACKGROUND COLOR"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "If exact packaging or branding matters, use an authorized reference and verify every detail.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "botanical-illustration",
+    "title": "Botanical illustration",
+    "category": "illustration",
+    "prompt": "A botanical illustration of [PLANT], showing one complete flowering stem and a separate close study of a leaf. Fine ink outlines with translucent watercolor, warm ivory paper, restrained [PALETTE] colors, balanced scientific-illustration composition, no labels or lettering.",
+    "variables": [
+      "PLANT",
+      "PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Illustrative output is not a verified botanical reference; check anatomy independently.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "cozy-interior",
+    "title": "Cozy interior concept",
+    "category": "interior",
+    "prompt": "A calm [ROOM TYPE] interior with [MATERIALS], one focal piece of furniture, and [ACCENT COLOR] textiles. Diffused morning daylight from a single large window, plausible scale, clear circulation space, lived-in but tidy, eye-level interior photograph, no people or text.",
+    "variables": [
+      "ROOM TYPE",
+      "MATERIALS",
+      "ACCENT COLOR"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Concept visualization only; dimensions and feasibility require separate review.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "cinematic-landscape",
+    "title": "Cinematic landscape",
+    "category": "environment",
+    "prompt": "A wide cinematic view of [LANDSCAPE] during [TIME OF DAY]. A small [FOREGROUND ELEMENT] creates scale, layered atmospheric depth, believable directional light, [PALETTE] color grade, detailed but restrained composition, no text or watermark.",
+    "variables": [
+      "LANDSCAPE",
+      "TIME OF DAY",
+      "FOREGROUND ELEMENT",
+      "PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Avoid overloading the scene; change one visual variable at a time.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "food-editorial",
+    "title": "Food editorial",
+    "category": "food",
+    "prompt": "An editorial food photograph of [DISH] on simple [TABLEWARE], placed on a [TABLE SURFACE] table. Natural window light, visible ingredients, appetizing but realistic texture, one folded linen napkin, carefully controlled styling, three-quarter camera angle, no hands or text.",
+    "variables": [
+      "DISH",
+      "TABLEWARE",
+      "TABLE SURFACE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Verify ingredients and presentation when the image communicates a real product.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "isometric-workspace",
+    "title": "Isometric workspace",
+    "category": "illustration",
+    "prompt": "An isometric illustration of a compact [WORKSPACE TYPE], with [THREE KEY OBJECTS], consistent geometry, soft ambient shadows, matte surfaces, [PALETTE] colors, isolated on a plain light background, clean readable silhouettes, no labels or text.",
+    "variables": [
+      "WORKSPACE TYPE",
+      "THREE KEY OBJECTS",
+      "PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Count objects and check geometry before using the result in an explanatory diagram.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "storybook-scene",
+    "title": "Storybook scene",
+    "category": "illustration",
+    "prompt": "A warm storybook illustration of [FICTIONAL CHARACTER] discovering [OBJECT] in [SETTING]. Gentle expressive gesture, hand-painted gouache texture, clear focal point, [PALETTE] colors, simple background shapes, narrative composition, no lettering.",
+    "variables": [
+      "FICTIONAL CHARACTER",
+      "OBJECT",
+      "SETTING",
+      "PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Use original characters and a descriptive visual style rather than copying a living artist.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "abstract-background",
+    "title": "Abstract background",
+    "category": "design",
+    "prompt": "An abstract background made of [SHAPES OR MATERIALS] flowing diagonally across the frame. [PALETTE] colors, subtle tactile texture, soft depth, low-detail negative space in the center for a separate text overlay, no lettering, symbols, or logos.",
+    "variables": [
+      "SHAPES OR MATERIALS",
+      "PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Add final copy in a layout editor and check text contrast at the intended size.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "character-sheet",
+    "title": "Original character study",
+    "category": "character",
+    "prompt": "A clean character study of an original adult [CHARACTER DESCRIPTION] wearing [OUTFIT], shown in a neutral standing pose against a plain [BACKGROUND] background. Distinctive [TWO IDENTITY ANCHORS], consistent proportions, even lighting, full body and feet visible, no labels or text.",
+    "variables": [
+      "CHARACTER DESCRIPTION",
+      "OUTFIT",
+      "BACKGROUND",
+      "TWO IDENTITY ANCHORS"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "Start with one pose; multiple views may introduce identity drift.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "reference-background-edit",
+    "title": "Reference background edit",
+    "category": "editing",
+    "prompt": "Edit the provided authorized product reference. Preserve the exact product shape, color, material, proportions, and visible label. Replace only the background with [NEW SETTING]. Match lighting and perspective, keep realistic contact shadows, add no extra products or text.",
+    "variables": [
+      "NEW SETTING"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": true,
+    "notes": "Requires an editing model and a reference image you have rights to use. Check that labels and geometry remain unchanged.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  },
+  {
+    "id": "minimal-poster-art",
+    "title": "Minimal poster artwork",
+    "category": "design",
+    "prompt": "A minimal poster artwork featuring [MAIN MOTIF] as one bold visual form. [PALETTE] colors, refined paper grain, strong silhouette, asymmetrical balance, generous empty area in the upper third for typography added later. Artwork only, no letters or logos.",
+    "variables": [
+      "MAIN MOTIF",
+      "PALETTE"
+    ],
+    "validation_status": "untested",
+    "tested_models": [],
+    "reference_required": false,
+    "notes": "This creates background artwork; set and proofread typography separately.",
+    "source": "Original Raphael AI OpenLab starter example",
+    "license": "MIT"
+  }
+]
